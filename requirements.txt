@@ -1,4 +1,6 @@
 streamlit
+numpy
 torch
 torchvision
-numpy
+Pillow
+
